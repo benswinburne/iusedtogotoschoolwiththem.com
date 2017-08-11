@@ -1,47 +1,67 @@
 var mates = {
   'Mike Ropenis': {
-      gender: 'male',
-      quote: 'Turns out size matters... That\'s what she said.',
+    gender: 'male',
+    quote: 'Turns out size matters... That\'s what she said.',
   },
   'Phil o\'Sophical': {
-      gender: 'male',
-      quote: 'We are what we think.',
+    gender: 'male',
+    quote: 'We are what we think.',
   },
   'Dick Insider': {
-      gender: 'male',
-      quote: 'It was the best of times. It was the worse of times.',
+    gender: 'male',
+    quote: 'It was the best of times. It was the worse of times.',
   },
   'Jason Object ': {
-      gender: 'male',
-      quote: 'Error: invalid JSON;',
+    gender: 'male',
+    quote: 'Error: invalid JSON;',
   },
   'Eileen Dover': {
-      gender: 'female',
-      quote: 'I didn\'t find prison that bad.',
+    gender: 'female',
+    quote: 'I didn\'t find prison that bad.',
   },
   'Hugo First': {
-      gender: 'male',
-      quote: 'I was never good at track.',
+    gender: 'male',
+    quote: 'I was never good at track.',
   },
   'Mark Down': {
-      gender: 'male',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
   },
   'Tom Morrow': {
-      gender: 'male',
-      quote: 'I have a bright future ahead of me.',
+    gender: 'male',
+    quote: 'I have a bright future ahead of me.',
   },
   'Max Width': {
-      gender: 'male',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
   },
   'Rick Shaw': {
-      gender: 'male',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
   },
   'Will Power': {
-      gender: 'male',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+  },
+  'Paige Turner': {
+    gender: 'female',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+  },
+  'Stan Still': {
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+  },
+  'Justin Case': {
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+  },
+  'Terry Bull': {
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+  },
+  'Bill Board': {
+    gender: 'male',
+    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
   },
 }
 
